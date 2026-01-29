@@ -21,6 +21,7 @@ CCTV13新闻,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/20
 CCTV14少儿,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=20260129063247f4c7cd80e5204a1c885b2bd163dc9808&mdspid=&spid=699004&netType=4&sid=5500212875&pid=2028597139&timestamp=20260129063247&Channel_ID=0116_2600001300-99000-201600010013620&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=113.195.248.38&SecurityKey=20260129063247&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0fb9c64d4ec388efa0e97c8113fcdfc6
 CCTV15音乐,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=202601290632166043b8a64c33450a833b5de269a3963d&mdspid=&spid=699004&netType=4&sid=5501083628&pid=2028597139&timestamp=20260129063216&Channel_ID=0116_2600001300-99000-201600010013619&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=113.195.248.190&SecurityKey=20260129063216&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dd71b5c38b23a7f7d7c6a765daaece9d
 CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=202601290631462725baa5daa64d41b195e51db4d18782&mdspid=&spid=699004&netType=4&sid=5501083631&pid=2028597139&timestamp=20260129063146&Channel_ID=0116_2600001300-99000-201600010013618&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=113.195.248.171&SecurityKey=20260129063146&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d75f13de2038e86f5c033140b9b27232
+CCTV17农业农村,http://pull-hls-f26.douyincdn.com/media/stream-695217622256190124.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=6983ef7f&major_anchor_level=common&sign=a0bdd06b8396697296aa7657d26e4b34&t_id=037-202601290916460B77884245F5BEC77016-wxrGQB
 卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
@@ -39,6 +40,7 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 湖南地区,#genre#
 电视剧频道,#genre#
 放映室5,#genre#
@@ -89,6 +91,7 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -163,6 +166,7 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 福建地区,#genre#
 海峡卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=202601290658532ebc153bb90041b38f4113abc2f82e00&mdspid=&spid=600717&netType=4&sid=5910022183&pid=2028597139&timestamp=20260129065853&Channel_ID=0116_2600001300-99000-201600010013639&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=106.225.162.54&SecurityKey=20260129065853&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=71fd81f8878f3357b14e12402397029b
 河南地区,#genre#
+河南曲艺,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 兰考综合,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
