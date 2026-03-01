@@ -456,17 +456,14 @@
     <programme channel="CCTV5体育" start="20260301092500 +0800" stop="20260301093000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260301093000 +0800" stop="20260301120000 +0800">
+    <programme channel="CCTV5体育" start="20260301093000 +0800" stop="20260301115000 +0800">
         <title lang="zh">2025/2026赛季美国职业篮球联赛-常规赛（湖人-勇士）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260301120000 +0800" stop="20260301121500 +0800">
+    <programme channel="CCTV5体育" start="20260301115000 +0800" stop="20260301120600 +0800">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260301121500 +0800" stop="20260301153000 +0800">
+    <programme channel="CCTV5体育" start="20260301120600 +0800" stop="20260301160000 +0800">
         <title lang="zh">2026年WTT新加坡大满贯-单打半决赛</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260301153000 +0800" stop="20260301160000 +0800">
-        <title lang="zh">2026年世界职业拳王争霸赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260301160000 +0800" stop="20260301180000 +0800">
         <title lang="zh">2027年国际篮联世界杯-亚洲区预选赛（中国台北队-中国队）</title>
